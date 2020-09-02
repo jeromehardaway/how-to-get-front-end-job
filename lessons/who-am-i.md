@@ -6,21 +6,10 @@ section: "Introduction"
 description: "this is the description that will show up in social shares"
 ---
 
-This is page one.
+![Jerome Hardaway](./images/jerome-headshot.jpg)
 
-## Check out this image
+They Call me the "Captain America Of The Web". I am currently DevRel at QuickenLoans and the Executive Director of Vets Who Code.
 
-![Gatsby Logo](./images/logo.svg)
+To date I have helped over 250 veterans get jobs in the tech sector, mostly in Front End ( I have one or two weirdos that went DevOps or Rails, .Net, Java Spring).
 
-## Check out a code sample
 
-```js
-const x = 2 + 2;
-```
-
-- This is a link to [Frontend Masters][fem].
-- This another link to [Brian Holt's Twitter](https://twitter.com/holtbt).
-- Here's another link to a [site built with this starter][containers].
-
-[fem]: https://www.frontendmasters.com
-[containers]: https://btholt.github.io/complete-intro-to-containers/

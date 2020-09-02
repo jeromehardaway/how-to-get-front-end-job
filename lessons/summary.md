@@ -6,21 +6,17 @@ section: "Summary"
 description: "this is the description that will show up in social shares"
 ---
 
-This is page one.
 
-## Check out this image
 
-![Gatsby Logo](./images/logo.svg)
+## Thank You!!!
 
-## Check out a code sample
+Follow me on [@jeromehardaway]()
+Follow Vets Who Code [@vetwhocode]()
 
-```js
-const x = 2 + 2;
-```
+![hashflag](./images/vwc.gif)
 
-- This is a link to [Frontend Masters][fem].
-- This another link to [Brian Holt's Twitter](https://twitter.com/holtbt).
-- Here's another link to a [site built with this starter][containers].
+## Huge Shout Out To Ayumi Bennett For The Drawings
 
-[fem]: https://www.frontendmasters.com
-[containers]: https://btholt.github.io/complete-intro-to-containers/
+![Ayumi](./images/Ayumi.png)
+
+

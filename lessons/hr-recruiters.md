@@ -6,21 +6,15 @@ section: "The Three Users"
 description: "this is the description that will show up in social shares"
 ---
 
-This is page one.
+![HR Recruiter](./images/HR-recruiter-transparent.png)
 
-## Check out this image
 
-![Gatsby Logo](./images/logo.svg)
+## Strength
+More Empathic that the bots.
 
-## Check out a code sample
+## Weakness
+Not a lot of time.
+May not be technical.
 
-```js
-const x = 2 + 2;
-```
-
-- This is a link to [Frontend Masters][fem].
-- This another link to [Brian Holt's Twitter](https://twitter.com/holtbt).
-- Here's another link to a [site built with this starter][containers].
-
-[fem]: https://www.frontendmasters.com
-[containers]: https://btholt.github.io/complete-intro-to-containers/
+## Gotcha
+Decisions can be influenced by design.

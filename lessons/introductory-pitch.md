@@ -6,21 +6,10 @@ section: "Lets Build The Resume"
 description: "this is the description that will show up in social shares"
 ---
 
-This is page one.
+This is the most important part of the resume.
+A strong lead in to captivate the user that entices them to investigate more.
 
-## Check out this image
 
-![Gatsby Logo](./images/logo.svg)
 
-## Check out a code sample
+![intro pitch](./images/Resume-points.png)
 
-```js
-const x = 2 + 2;
-```
-
-- This is a link to [Frontend Masters][fem].
-- This another link to [Brian Holt's Twitter](https://twitter.com/holtbt).
-- Here's another link to a [site built with this starter][containers].
-
-[fem]: https://www.frontendmasters.com
-[containers]: https://btholt.github.io/complete-intro-to-containers/

@@ -6,21 +6,13 @@ section: "Technologies You Need To Know To Get A Job"
 description: "this is the description that will show up in social shares"
 ---
 
-This is page one.
 
-## Check out this image
 
-![Gatsby Logo](./images/logo.svg)
+![Web Basics](./images/web-basics.jpeg)
 
-## Check out a code sample
+## You Need To Show A Strong Understanding Of The Big Three
+- HTML ( Semantic Web, SEO)
+- CSS (Grid, Flex)
+- Javascript (How To Turn jQuery to JS)
 
-```js
-const x = 2 + 2;
-```
 
-- This is a link to [Frontend Masters][fem].
-- This another link to [Brian Holt's Twitter](https://twitter.com/holtbt).
-- Here's another link to a [site built with this starter][containers].
-
-[fem]: https://www.frontendmasters.com
-[containers]: https://btholt.github.io/complete-intro-to-containers/
