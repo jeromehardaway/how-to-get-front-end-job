@@ -1,7 +1,7 @@
 ---
 path: "/personality"
 title: "Showing Your Personality"
-order: "6B"
+order: "7B"
 section: "Building A Portfolio That Works"
 description: "this is the description that will show up in social shares"
 ---

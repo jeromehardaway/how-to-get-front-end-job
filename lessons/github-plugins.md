@@ -1,7 +1,7 @@
 ---
 path: "/github-plugins"
 title: "Github Plugins"
-order: "5C"
+order: "6C"
 section: "Getting Our Github Employer Ready"
 description: "this is the description that will show up in social shares"
 ---

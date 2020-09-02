@@ -1,7 +1,7 @@
 ---
 path: "/pinned-projects"
 title: "Pinned Projects"
-order: "5D"
+order: "6D"
 section: "Getting Our Github Employer Ready"
 description: "this is the description that will show up in social shares"
 ---

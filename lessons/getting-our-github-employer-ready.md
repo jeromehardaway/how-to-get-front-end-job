@@ -1,7 +1,7 @@
 ---
 path: "/getting-github-employer-ready"
 title: "Getting Our Github Employer Ready"
-order: "5A"
+order: "6A"
 section: "Getting Our Github Employer Ready"
 description: "this is the description that will show up in social shares"
 ---

@@ -1,7 +1,7 @@
 ---
 path: "/how-to-showcase"
 title: "How To Showcase What You Know"
-order: "6C"
+order: "7C"
 section: "Building A Portfolio That Works"
 description: "this is the description that will show up in social shares"
 ---

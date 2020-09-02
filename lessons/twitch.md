@@ -1,8 +1,8 @@
 ---
-path: "/building-a-portfolio-that-works"
-title: "Building A Portfolio That Works"
-order: "6A"
-section: "Building A Portfolio That Works"
+path: "/twitch"
+title: "Twitch"
+order: "8E"
+section: "Macro To Micro Content"
 description: "this is the description that will show up in social shares"
 ---
 

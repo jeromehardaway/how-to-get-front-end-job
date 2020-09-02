@@ -1,7 +1,7 @@
 ---
 path: "/github-profile"
 title: "Github Profile"
-order: "5B"
+order: "6B"
 section: "Getting Our Github Employer Ready"
 description: "this is the description that will show up in social shares"
 ---

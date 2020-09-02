@@ -1,7 +1,7 @@
 ---
 path: "/activity-status"
 title: "Activity Status"
-order: "5E"
+order: "6E"
 section: "Getting Our Github Employer Ready"
 description: "this is the description that will show up in social shares"
 ---

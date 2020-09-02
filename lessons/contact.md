@@ -1,7 +1,7 @@
 ---
 path: "/contact"
 title: "Minimize Contact Loop"
-order: "6D"
+order: "7D"
 section: "Building A Portfolio That Works"
 description: "this is the description that will show up in social shares"
 ---

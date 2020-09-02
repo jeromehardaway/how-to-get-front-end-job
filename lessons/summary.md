@@ -1,8 +1,8 @@
 ---
-path: "/building-a-portfolio-that-works"
-title: "Building A Portfolio That Works"
-order: "6A"
-section: "Building A Portfolio That Works"
+path: "/summary"
+title: "Summary"
+order: "9A"
+section: "Summary"
 description: "this is the description that will show up in social shares"
 ---
 
